@@ -1,0 +1,103 @@
+.header-container {
+	width: initial;
+	height: 150px;
+  background-color: #fafafa	;
+  display: flex;
+	justify-content: center;
+}
+
+
+.header-item{
+	width: 2400px;
+	display: flex;
+  justify-content: space-between;
+	align-items: center;
+
+}
+
+.logo{
+	justify-content: flex-end;
+	margin-left: 300px;
+}
+
+.mid{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.mid-corner{
+	align-items: stretch;
+	justify-content: flex-end;
+}
+
+.header {
+    background: color(white);
+    height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+	color: rgb(38, 38, 38);
+
+}
+
+
+.primary_area {
+	font-size: 18px;
+    height: 80px;
+    font-family: Arial;
+	text-align: center;
+	horiz-align: center;
+	color: black;
+	margin-left: 20px;
+
+}
+
+.secondary_area {
+	font-size: 14px;
+    height: 80px;
+    font-family: Arial;
+	border-radius: 3px;
+	border-color: rgb(230, 230, 230);
+	horiz-align: center;
+}
+
+.login_button {
+	font-size: 14px;
+	height: 20px;
+	font-family: Arial;
+	text-align: center;
+	horiz-align: center;
+	justify-content: flex-end;
+}
+
+.links {
+	border: 1px solid;
+    display: flex;
+	justify-content: flex-end;
+}
+
+
+.compass {
+	margin-left: 20px;
+	margin-top: 20px;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.button {
+	display: inline-block;
+	border-radius: 3px;
+	padding: 7px 12px;
+	border: 1px solid #D5D5D5;
+	background-image: linear-gradient(#EEE, #DDD);
+	font: 700 13px/18px Helvetica, arial;
+}
+.button--state-success {
+	color: #FFF;
+	background: #569E3D linear-gradient(#79D858, #569E3D) repeat-x;
+	border-color: #4A993E;
+}
+.button--state-danger {
+	color: #900;
+}
+
+
