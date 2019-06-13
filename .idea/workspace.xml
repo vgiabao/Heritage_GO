@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe5e01-ceb3-4451-9a58-7e7759df59e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intra.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intra_files/5764351022_15f5d7e128_b.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intra_files/Screen_Shot_2019-03-16_at_10.png" beforeDir="false" />
@@ -44,7 +43,6 @@
       <change beforePath="$PROJECT_DIR$/Intra_files/squared_dphuong.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intra_files/squared_sentinel.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intra_files/thumb_vgiabao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bem.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bem.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flexbox_test.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/heritage_Go.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/awesome-logo.svg" beforeDir="false" />
@@ -54,7 +52,6 @@
       <change beforePath="$PROJECT_DIR$/images/social-icons.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/three.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/two.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +66,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+                <state relative-caret-position="288">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
                   <folding>
                     <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#img#0;n#cpa#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -184,12 +181,12 @@
       <updated>1560165245546</updated>
       <workItem from="1560165246869" duration="16271000" />
       <workItem from="1560228446615" duration="26660000" />
-      <workItem from="1560404974015" duration="6429000" />
+      <workItem from="1560404974015" duration="6776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49360000" />
+    <option name="totallyTimeSpent" value="49707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1013" extended-state="6" />
@@ -269,22 +266,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/bem.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#cpa#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bem.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
         </state>
       </provider>
     </entry>
