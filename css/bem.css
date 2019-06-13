@@ -42,7 +42,11 @@
     height: 10px;
     font-family: Arial, Helvetica, sans-serif;
 	color: rgb(38, 38, 38);
-	margin-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	padding: 0px;
+
 
 }
 
@@ -84,18 +88,33 @@
 
 .compass {
 	margin-right: 6px;
-	margin-top: 28px;
+	margin-top: 20px;
+	width: 40px;
+	height: 40px;
+}
+scl {
+  transition: .2s;
 
 }
-#loading {
-    -webkit-animation: rotation 2s infinite linear;
+
+scl:hover {
+	transform: scale(1.1);
+	transition-timing-function: ease-out;
+	transition: .2s;
 }
 
-@-moz-keyframes rotation {
-from {
-    -webkit-transform: rotate(0deg);
-    }
-to {
-    -webkit-transform: rotate(359deg);
+cpa {
+	position: relative;
+	animation: rotation 2s linear infinite;
+	-moz-animation: rotation 2s linear infinite;
+
 }
+@keyframes rotation {
+	100% {transform: rotate(360deg)}
+
+}
+
+@-moz-keyframes rotation{ 100%
+{transform: rotate(360deg)}
+
 }

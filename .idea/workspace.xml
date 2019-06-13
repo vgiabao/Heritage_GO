@@ -2,7 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe5e01-ceb3-4451-9a58-7e7759df59e0" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Intra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/5764351022_15f5d7e128_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/Screen_Shot_2019-03-16_at_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/Screen_Shot_2019-03-16_at_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/Screen_Shot_2019-03-21_at_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/application-4be75f46cca20e1020fe21ae61c34829b73cfe593cb5a545.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/application-6c326a90323a9a963329.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/db3210cc-5c79-11e8-9e03-0007cb040bcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-blurred-content-behind-header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-compass-icon-spinning-around.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-firefox-language-settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-firefox-preferences.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-floating-labels.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-languages-translator-selection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-localized-caption-edition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-photo-feed-layout.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-toggle-password-visibilty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-translation-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego-transparent-header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_encoding_issue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_favicon_examples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_header_desktop_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_header_layout_flexbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_header_mobile_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_header_web_responsive_design.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_homepage.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_layout_no_positioning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_login_dialog-box_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_login_dialog-box_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_photo_post_layout.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_undefined_charset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_utf8_charset_defined.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/heritagego_with_favicon_defined.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/logo-2658c529259c41376eff7d47d2cf2154b134c912148ffe7af7edda0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/logo-image-correct-animation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/logo-image-wrong-animation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/squared_dphuong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/squared_sentinel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intra_files/thumb_vgiabao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heritage_Go.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/awesome-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/five.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/four.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/one.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/three.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/two.svg" beforeDir="false" />
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +70,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state relative-caret-position="435">
                   <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
                   <folding>
@@ -24,6 +78,14 @@
                     <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+                <state relative-caret-position="288">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                  <folding>
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#cpa#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
                   </folding>
                 </state>
               </provider>
@@ -32,12 +94,21 @@
         </leaf>
       </split-first>
       <split-second>
+<<<<<<< HEAD
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/bem.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="42">
                   <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+=======
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/bem.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="378">
+                  <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
                 </state>
               </provider>
             </entry>
@@ -91,7 +162,14 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
+<<<<<<< HEAD
     <panes />
+=======
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -130,18 +208,27 @@
       <option name="presentableId" value="Default" />
       <updated>1560165245546</updated>
       <workItem from="1560165246869" duration="16271000" />
+<<<<<<< HEAD
       <workItem from="1560228446615" duration="18720000" />
       <workItem from="1560421736110" duration="1817000" />
+=======
+      <workItem from="1560228446615" duration="26660000" />
+      <workItem from="1560404974015" duration="6776000" />
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="36808000" />
+=======
+    <option name="totallyTimeSpent" value="49707000" />
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25294748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2561629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,9 +279,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/heritage_Go.html" />
-    <entry file="file://$PROJECT_DIR$/Intra.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Intra.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -209,13 +294,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flexbox_test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/flexbox_test.html" />
     <entry file="file://$PROJECT_DIR$/css/flexbox.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -223,8 +302,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bem.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="435">
           <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
           <folding>
@@ -232,10 +319,19 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#cpa#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/css/bem.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -243,5 +339,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 386c453351d5698f9e6874d3476c3dd3a154f4ab
   </component>
 </project>
